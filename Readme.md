@@ -16,4 +16,4 @@ commandline windows
 Milk data contains one outlier and IOS can be used to detect it and select representative subset.
 
 ### Contact ###
-For any questions, please contact: Zhi-Min Zhang: zmzhang@csu.edu.cn
+For any questions, please contact: Zhi-Min Zhang:  chenworuo@csu.edu.cn
